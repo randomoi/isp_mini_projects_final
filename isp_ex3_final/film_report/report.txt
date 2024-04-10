@@ -1,0 +1,21 @@
+Original Film Name  Last_man_on_earth_1964.mov
+Original Film Data  format: mov,mp4,m4a,3gp,3g2,mj2, video_bit_rate: 11.24 Mb/s, video_codec: prores, frame_rate: 23.976023976023978, resolution: (640, 360), aspect_ratio: 16:9, audio_codec: pcm_s16le, audio_channels: stereo, audio_bit_rate: 1536.0 kb/s
+New Film Name       Last_man_on_earth_1964_formatOK.mp4
+New Film Data       format: mov,mp4,m4a,3gp,3g2,mj2, video_bit_rate: 3.32 Mb/s, video_codec: h264, frame_rate: 25.0, resolution: (640, 360), aspect_ratio: 16:9, audio_codec: aac, audio_channels: stereo, audio_bit_rate: 240.647 kb/s
+Changes Made        video_codec: prores -> h264, audio_codec: pcm_s16le -> aac, frame_rate: 23.976023976023978 -> 25.0, video_bit_rate: 11.24 Mb/s -> 3.32 Mb/s, audio_bit_rate: 1536.0 kb/s -> 240.647 kb/s
+Conversion Issues   No issues detected
+
+Original Film Name  Voyage_to_the_Planet_of_Prehistoric_Women.mp4
+Original Film Data  format: mov,mp4,m4a,3gp,3g2,mj2, video_bit_rate: 8.37 Mb/s, video_codec: hevc, frame_rate: 29.97002997002997, resolution: (640, 360), aspect_ratio: 16:9, audio_codec: mp3, audio_channels: stereo, audio_bit_rate: 320.0 kb/s
+New Film Name       Voyage_to_the_Planet_of_Prehistoric_Women_formatOK.mp4
+New Film Data       format: mov,mp4,m4a,3gp,3g2,mj2, video_bit_rate: 3.12 Mb/s, video_codec: h264, frame_rate: 25.0, resolution: (640, 360), aspect_ratio: 16:9, audio_codec: aac, audio_channels: stereo, audio_bit_rate: 242.406 kb/s
+Changes Made        video_codec: hevc -> h264, audio_codec: mp3 -> aac, frame_rate: 29.97002997002997 -> 25.0, video_bit_rate: 8.37 Mb/s -> 3.12 Mb/s, audio_bit_rate: 320.0 kb/s -> 242.406 kb/s
+Conversion Issues   No issues detected
+
+Original Film Name  Cosmos_War_of_the_Planets.mp4
+Original Film Data  format: mov,mp4,m4a,3gp,3g2,mj2, video_bit_rate: 3.32 Mb/s, video_codec: h264, frame_rate: 29.97002997002997, resolution: (628, 354), aspect_ratio: 628:354, audio_codec: aac, audio_channels: stereo, audio_bit_rate: 317.103 kb/s
+New Film Name       Cosmos_War_of_the_Planets_formatOK.mp4
+New Film Data       format: mov,mp4,m4a,3gp,3g2,mj2, video_bit_rate: 3.23 Mb/s, video_codec: h264, frame_rate: 25.0, resolution: (640, 360), aspect_ratio: 16:9, audio_codec: aac, audio_channels: stereo, audio_bit_rate: 245.834 kb/s
+Changes Made        frame_rate: 29.97002997002997 -> 25.0, resolution: (628, 354) -> (640, 360), audio_bit_rate: 317.103 kb/s -> 245.834 kb/s, aspect_ratio: 628:354 -> 16:9
+Conversion Issues   No issues detected
+
