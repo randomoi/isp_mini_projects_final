@@ -1,24 +1,33 @@
 
 # Intelligent Signal Processing - Mini projects - Final
 
-### Student: https://github.com/randomoi/
-
 ***
 
-### Project Name: EX1 Final - Motion Detection
+## **Table of Contents**
+
+1. [EX1 Final - Motion Detection](#ex1-final---motion-detection)
+2. [EX2 Final - Rice, Huffman, and FLAC](#ex2-final---rice-huffman-and-flac)
+3. [EX3 Final - Video Analysis and Conversion](#ex3-final---video-analysis-and-conversion)
+
+4. [Installation of ffprobe and ffmpeg](#installation-of-ffprobe-and-ffmpeg)
+   - [Installation using terminal on Mac](#installation-using-terminal-on-mac)
+   - [Installation on Jupyter Notebooks](#installation-on-jupyter-notebooks)
+
+
+### **EX1 Final - Motion Detection**
 
 - Please use Jupyter Notebooks to run the project. 
 
-### Project Name: EX2 Final - Rice, Huffman and FLAC
+### **EX2 Final - Rice, Huffman and FLAC**
 
 - Please use Jupyter Notebooks to run the project. 
 
-### Project Name: EX3 Final - Video analysis using ffprob and conversion using ffmpeg
+### **EX3 Final - Video Analysis and Conversion**
 
 - Please use Jupyter Notebooks to run the project. 
 
 
-## Installation of ffprobe and ffmpeg
+## **Installation of ffprobe and ffmpeg**
 
 I used HomeBrew to install ffprobe and ffmpeg, which was previously installed on my Mac computer (Ventura 13.5.2). I currently have Homebrew 4.1.10 version. The following instructions will show how to install ffprobe and ffmpeg on Mac and Jupytor Notebooks.
 
@@ -63,4 +72,4 @@ check version
 
 	!ffmpeg -version
 
-
+*Author: https://github.com/randomoi/*
